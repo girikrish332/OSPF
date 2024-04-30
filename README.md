@@ -2,10 +2,11 @@ OSPF Configuration Guide
 
 This guide outlines the OSPF (Open Shortest Path First) configuration for the network topology described. OSPF is a dynamic routing protocol used for routing within an Autonomous System (AS).
 Network Topology
+Router used in this network are c3600
 
 The network consists of the following devices:
 
-    Routers: R1, R2, R3, R4, R5, R6
+    Routers C3600: R1, R2, R3, R4, R5, R6
     PCs: PC1, PC2
 
 Router Configurations
